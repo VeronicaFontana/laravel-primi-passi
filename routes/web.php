@@ -17,3 +17,7 @@ Route::get('/', function () {
     $hello = "Hello Laravel";
     return view('home', compact('hello'));
 });
+
+Route::get('/about', function () {
+    return view('about');
+});

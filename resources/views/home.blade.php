@@ -7,6 +7,16 @@
     <title>Laravel Primi Passi</title>
 </head>
 <body>
-    <h1>{{ $hello }}</h1>
+    <header>
+        <div>
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+        </div>
+    </header>
+    <main>
+        <div>
+            <h1>{{ $hello }}</h1>
+        </div>
+    </main>
 </body>
 </html>
