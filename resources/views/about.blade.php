@@ -8,6 +8,7 @@
 </head>
 <body>
     <header>
+        <a href="/">Home</a>
         <h1>About</h1>
     </header>
     <main>
