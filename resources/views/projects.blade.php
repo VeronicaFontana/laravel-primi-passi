@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>About</title>
+    <title>Projects</title>
 </head>
 <body>
     <header>
@@ -14,14 +14,14 @@
                     <a href="/">Home</a>
                 </li>
                 <li>
-                    <a href="/projects">Projects</a>
+                    <a href="/about">About</a>
                 </li>
                 <li>
                     <a href="/teams">Teams</a>
                 </li>
             </ul>
         </div>
-        <h1>About</h1>
+        <h1>Projects</h1>
     </header>
     <main>
         <p>
